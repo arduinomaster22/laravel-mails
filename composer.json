@@ -16,7 +16,7 @@
         }
     ],
     "require": {
-        "php": "^8.1",
+        "php": "^8.1 || ^8.3",
         "illuminate/contracts": "^10.8.0|^11.0",
         "laravel-notification-channels/discord": "^1.6|dev-l11-compatibility",
         "laravel-notification-channels/telegram": "^4.0|5.0",
